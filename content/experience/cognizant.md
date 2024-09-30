@@ -1,6 +1,6 @@
 ---
 date: 2024-08-04T00:00:00+01:00
-draft: true
+draft: false
 title: "Analyst Traniee Engineer"
 jobTitle: "Analyst Trainee"
 company: "Cognizant Technology Solutions"

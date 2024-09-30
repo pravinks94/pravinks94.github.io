@@ -10,3 +10,7 @@ duration: "Jul 2024 - present"
 # PriceWaterCopper
 
 Just recently joined PwC so expect good thing here :).
+
+### Roles and Responsibility
+- Oversaw and validated QC test cases for the modelling workbook, enhancing accuracy and minimizing manual errors.
+- Developed an automation testing framework with Azure and Azure Databricks,utilizing Data Lake for efficient data handling
