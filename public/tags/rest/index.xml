@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest on </title>
+    <link>http://localhost:1313/tags/rest/</link>
+    <description>Recent content in Rest on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dota Win Prediction</title>
+      <link>http://localhost:1313/content/projects/dota.md</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/content/projects/dota.md</guid>
+      <description>Dota Win Prediction A model to help understand the win probability of the game based on in-game metrics, skill level, and assistance from the hero pool. The model is also used to find the heroes which the player is comfortable with from the 120+ hero pool. Analysis is done to help users understand their weak points based on the hero pool through Exploratory Data Analysis (EDA).&#xA;Everyone is good at certain heroes, and everyone is bad at others.</description>
+    </item>
+    <item>
+      <title>Vehicle Loan Default Prediction</title>
+      <link>http://localhost:1313/content/projects/dota.md</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/content/projects/dota.md</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

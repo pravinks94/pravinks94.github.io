@@ -4,7 +4,7 @@
     <title>Experiences on </title>
     <link>http://localhost:1313/experience/</link>
     <description>Recent content in Experiences on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/experience/pwc/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/experience/pwc/</guid>
-      <description>PriceWaterCopper Just recently joined PwC so expect good thing here :).</description>
+      <description>PriceWaterCopper Just recently joined PwC so expect good thing here :).&#xA;Roles and Responsibility Oversaw and validated QC test cases for the modelling workbook, enhancing accuracy and minimizing manual errors. Developed an automation testing framework with Azure and Azure Databricks,utilizing Data Lake for efficient data handling </description>
     </item>
   </channel>
 </rss>

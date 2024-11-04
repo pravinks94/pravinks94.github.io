@@ -11,22 +11,37 @@
     <loc>http://localhost:1313/experience/themathcompany/</loc>
     <lastmod>2024-08-04T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/classification/</loc>
+    <lastmod>2024-08-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/clustering/</loc>
+    <lastmod>2024-08-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/content/projects/dota.md</loc>
+    <lastmod>2024-08-04T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/experience/</loc>
+    <lastmod>2024-08-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-08-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rest/</loc>
     <lastmod>2024-08-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/experience/pwc/</loc>
     <lastmod>2024-08-04T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/dota/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/content/projects/dota.md</loc>
+    <lastmod>2024-08-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/heart_disease_prediction/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/ore_prediction/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
