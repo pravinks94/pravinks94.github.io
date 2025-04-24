@@ -1,0 +1,280 @@
+# page title
+head:
+  title: "PravinKumar Portfolio"
+  description: "A simple portfolio website to showcase my experience, my skillset and what i want to do"
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Pravin."
+  subtitle: "Data Scientist"
+  description: >
+    I am a data science professional based in Chennai,🇮🇳, with a diverse background spanning backend development, statistics, machine learning, and web development. My experience at PwC has honed my ability to deliver high-quality products through innovative solutions.<br>
+    I am a strong advocate for the 3P framework (People, Product, Process) and writing Clean Code and believe in fostering collaborative and iterative work environments. My passion lies in building healthy teams and driving continuous improvement.
+
+  image:
+    x: "images/showcase/showcase.jpg"
+    _2x: "images/showcase/showcase.jpg"
+  imageMobile:
+    x: "images/showcase/showcase.jpg"
+
+  # button:
+  #   icon: "icon-mail-fill"
+  #   btnText: "Contact"
+  #   URL: "#contact"
+alLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/pravinks94/"
+
+    - icon: "github"
+      URL: "https://github.com/pravinks94"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/pravin_0709"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: >
+    <p class="lead">
+      I am an Electronics engineer by formal training which let me question my life choices with my passion in coding,
+      learning new tools, programming languages and to create projects to <strike>showoff</strike> showcase my skills 
+    </p>
+    <p class="lead">
+      I am a deliberate jack of all trades, master of none. My profile is a hybrid of technical and managerial experience, but always related to technological projects. I bring business and product vision to tech teams, partly thanks to having started an developed a company. 
+      I am a fast learner, curious to see how technology can improve the users experience in multiple areas. I have a strong motivation and sense of responsibility with myself, my team and clients (or peers), and people like my positive and easy going, can-do attitude and my sense of humor.
+    </p>
+    <p class="lead">
+    On the technical side, I’m a specialized generalist, always working between different areas and aiming to develop a holistic vision on what is involved into creating a successful tech products,dashboards and web development, ,... This has involved a variety of languages and frameworks in the web-side and datascience side.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/pravinks94/"
+  image:
+    x: "images/who-am-i/IMG_0713.jpg"
+    _2x: "images/who-am-i/IMG_0713.jpg"
+# Skills
+skills:
+  enable: true
+  title: "My Skills"
+
+  skills:
+    - logo:
+        x: "images/skills/python-128x30.jpg"
+        _2x: "images/skills/python-256x60.jpg"
+      alt: "Python"
+
+    - logo:
+        x: "images/skills/sql-128.png"
+        _2x: "images/skills/sql-256.png"
+      alt: "SQL"
+    
+    - logo:
+        x: "images/skills/statistics-128.png"
+        _2x: "images/skills/statistics-256.png"
+        alt: "Statistics"
+    
+    - logo:
+        x: "images/skills/machinelearning-128.jpg"
+        _2x: "images/skills/machinelearning-256.jpg"
+      alt: "Machine Learning"
+
+    - logo:
+        x: "images/skills/deeplearning-128.png"
+        _2x: "images/skills/deeplearning-256.png"
+      alt: "Deep Learning"
+
+    - logo:
+        x: "images/skills/rust-128.png"
+        _2x: "images/skills/rust-256.png"
+      alt: "Rust"    
+
+    - logo:
+        x: "images/skills/aws-128.png"
+        _2x: "images/skills/aws-256.png"
+      alt: "AWS"  
+
+    - logo:
+        x: "images/skills/looker-128.png"
+        _2x: "images/skills/looker-256.png"
+      alt: "Looker"        
+
+
+# Client & Work
+# client_and_work:
+#   title: "Clients & Works"
+#   enable: true
+
+#   clients:
+#     - logo:
+#         x: "images/clients/asgardia.png"
+#         _2x: "images/clients/asgardia@2x.png"
+#       alt: "Asgardia"
+
+#     - logo:
+#         x: "images/clients/earth-2.png"
+#         _2x: "images/clients/earth-2@2x.png"
+#       alt: "Earth 2.0"
+
+#     - logo:
+#         x: "images/clients/goldline.png"
+#         _2x: "images/clients/goldline@2x.png"
+#       alt: "Goldline"
+
+#     - logo:
+#         x: "images/clients/kanba.png"
+#         _2x: "images/clients/kanba@2x.png"
+#       alt: "Kanba"
+
+#     - logo:
+#         x: "images/clients/zoo-tv.png"
+#         _2x: "images/clients/zoo-tv@2x.png"
+#       alt: "Zoo"
+
+#     - logo:
+#         x: "images/clients/ztos.png"
+#         _2x: "images/clients/ztos@2x.png"
+#       alt: "Ztos"
+
+# education
+education:
+  enable: true
+  title: "My Education"
+  items:
+    - university: "Great Lakes"
+      year: "2019-2020"
+      degree: "Post Graduate Program - Data Science (Diploma)"
+      URL: "https://www.greatlakes.edu.in/"
+
+    - university: "SRM University"
+      year: "2012-2016"
+      degree: "Bachelor of Technology(B.Tech), Electronics and Communication Engineering"
+      URL: "https://www.srmist.edu.in/"
+
+    - university: "St. Michaels Academy"
+      year: "1998-2012"
+      degree: "High School - Computer Science"
+      URL: "http://www.st-michaelsacademy.com/"
+
+# experience
+experience:
+  enable: true
+  title: "My Experience"
+  description: >
+    Over 5+ years of experience working with companies . I design & develop datascience products to help businesses and improve people's lives.
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/pravinks94/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  # button3: 
+  #   icon: "icon-arrow-right"
+  #   btnText: "All experience"
+  #   URL: "/experience"
+  
+projects:
+  enable: true
+  title: "My Projects"
+
+  works:
+    - title: "Dota Win Prediction"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "content/projects/dota"
+      image:
+        x: "images/projects/dota/dotahomepage.jpg"
+        _2x: "images/projects/dota/dotahomepage@2x.jpg"
+      is_even: true
+
+    - title: "Ore Quality Extraction"
+      description: "In this case study, we predict how much impurity is in the ore concentre for Silica and Iron to help engineers by giving them early information to take actions and take collective steps to reduce impurity of ore concentrate"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "content/projects/ore_prediction"
+      image:
+        x: "images/projects/ore_prediction/oreprediction.jpg"
+        _2x: "images/projects/ore_prediction/oreprediction@2x.jpg"
+      is_even: false
+
+    - title: "Vehicle Load Default Prediction"
+      description: "In this case study, we worked with a fintech company to help them predict the Potential Defaulters and Non-Defaulters among the customers who are applying vehicle loan to help Employers to decide whether to provide customers loan or not."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "images/works/radity-finance.jpg"
+        _2x: "images/works/radity-finance@2x.jpg"
+      is_even: true
+  
+  button: 
+    icon: "icon-arrow-right"
+    btnText: "All Projects"
+    URL: "/projects" 
+  button2: 
+    icon: "icon-github-line"
+    btnText: "View GitHub Profile"
+    URL: "https://github.com/pravinks94" 
+   
+  
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "images/testimonials/daniel-jordan.jpg"
+        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "images/testimonials/jonathan-peters.jpg"
+        _2x: "images/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "images/testimonials/antonio-willis.jpg"
+        _2x: "images/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+
+  email:
+    title: "Email"
+    email: '<a href="mailto:pravin986@gmail.com">pravin986@gmail.com</a>'
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on </title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experience on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senior Associate Data Scientist</title>
+      <link>http://localhost:1313/experience/pwc/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/pwc/</guid>
+      <description>&lt;h3 id=&#34;roles--responsibilities&#34;&gt;Roles &amp;amp; Responsibilities:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Automation Framework for Model Validation (PPE Project)&lt;/strong&gt;:&#xA;Designed and implemented an automation framework to streamline the validation process for predictive models for a leading CPG client. The solution enhanced model review efficiency, ensured regulatory compliance, and supported scalable deployments across business units.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Revenue Forecasting in Healthcare&lt;/strong&gt;:&#xA;Improved a healthcare revenue forecasting model by adding domain-specific features and optimizing the feature engineering pipeline. These enhancements led to a notable increase in forecasting accuracy and model stability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Associate Data Scientist</title>
+      <link>http://localhost:1313/experience/themathcompany/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/themathcompany/</guid>
+      <description>&lt;p&gt;No matter where I go next, no organization can surpass the people and culture of my current company. I began my analytics journey here, growing from an analyst to leading a team. I&amp;rsquo;ve gained experience in the automobile, CPG, and social journalism domains, and accumulated expertise in Python, statistics, SQL, and machine learning. My role has also involved delivering data-driven decisions, modeling, client communication, and project management. Additionally, I&amp;rsquo;ve learned various tools such as dashboarding, Jira, AWS, Looker, and Snowflake.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Analyst Traniee Engineer</title>
+      <link>http://localhost:1313/experience/cognizant/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/cognizant/</guid>
+      <description>&lt;p&gt;Started my career working in CTS as a ITIL enginner in monitor and triaging tickets for a pharma company.&lt;/p&gt;&#xA;&lt;h3 id=&#34;roles-and-responsibilites&#34;&gt;Roles and Responsibilites&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ticket Management (ServiceNow) and Monitoring-analyzed, measured, reported, monitored the tickets (Incidents/Service Requests) to improve the efficiency of incident management process by using ServiceNow&lt;/li&gt;&#xA;&lt;li&gt;Spearheaded the automating of Monthly Ticket Reporting analysis with the help of Python which reduced time, and effort by 8 hours&lt;/li&gt;&#xA;&lt;li&gt;Informatica monitoring of data workflows to ensure pipelines are working as expected.&lt;/li&gt;&#xA;&lt;li&gt;Headed weekly analysis meetings, aimed at enhancing efficiency, and capacity planning within the team&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
