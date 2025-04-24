@@ -68,27 +68,6 @@
     <loc>http://localhost:1313/testimonial/ferdinand-shermand/</loc>
     <lastmod>2024-11-25T21:30:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client-work/</loc>
-    <lastmod>2024-08-25T10:23:39+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/client-work/ztos/</loc>
-    <lastmod>2024-08-25T10:23:39+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/client-work/zoo/</loc>
-    <lastmod>2024-08-25T10:23:08+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/client-work/kanba/</loc>
-    <lastmod>2024-08-25T10:22:34+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/client-work/goldline/</loc>
-    <lastmod>2024-08-25T10:21:48+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/client-work/earth2/</loc>
-    <lastmod>2024-08-25T10:17:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/client-work/asgardia/</loc>
-    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
@@ -165,6 +144,24 @@
     <loc>http://localhost:1313/education/sma/</loc>
     <lastmod>2012-06-25T09:53:42+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/skills/aws/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/azure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/deep-learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/looker/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/machine-learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/python/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/reinforcement-learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/sql/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/statistics/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -223,5 +220,7 @@
     <loc>http://localhost:1313/cv/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/skills/</loc>
   </url>
 </urlset>

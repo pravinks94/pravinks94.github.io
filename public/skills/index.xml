@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on </title>
+    <link>http://localhost:1313/skills/</link>
+    <description>Recent content in Skills on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/aws/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;AWS&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/aws.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/azure/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;Azure&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/azure.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/deep-learning/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;Deep Learning&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/deep-learning.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/looker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/looker/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;Looker&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/looker.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/machine-learning/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;Machine Learning&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/machine-learning.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/python/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;Python&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/python.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/reinforcement-learning/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;Reinforcement Learning&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/reinforcement-learning.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/sql/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;SQL&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/sql.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/statistics/</guid>
+      <description>&lt;h1 id=&#34;date-in-which-the-content-is-created---defaults-to-today&#34;&gt;date in which the content is created - defaults to &amp;ldquo;today&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;title: &amp;lsquo;Statistics&amp;rsquo;&#xA;draft: false # set to &amp;ldquo;true&amp;rdquo; if you want to hide the content&lt;/p&gt;&#xA;&lt;p&gt;link: &amp;ldquo;&lt;a href=&#34;https://www.adrianmoreno.info&#34;&gt;https://www.adrianmoreno.info&lt;/a&gt;&amp;rdquo; # optional URL&lt;/p&gt;&#xA;&lt;p&gt;params:&#xA;logo:&#xA;src: &amp;ldquo;images/skills/statistics.png&amp;rdquo;&#xA;scale: 0.5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-content-is-not-used-yet-if-you-have-ideas-on-how-to-use-it&#34;&gt;The content is not used (yet). If you have ideas on how to use it,&lt;/h2&gt;&#xA;&lt;h2 id=&#34;you-can-suggest-it-at&#34;&gt;you can suggest it at &lt;a href=&#34;https://github.com/zetxek/adritian-free-hugo-theme/discussions&#34;&gt;https://github.com/zetxek/adritian-free-hugo-theme/discussions&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -36,6 +36,25 @@ draft = false
     imgSrc="/images/about/IMG_0713.jpg"
     imgScale="0.5"
  >}}
+{{< text-section
+title="Skills"
+centered="false"
+>}}
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
+
+<img src="images/skills/Python-logo-notext.svg" alt="Python" style="width: 128px; height: auto; border-radius: 8px;" />
+<img src="images/skills/sql.png" alt="SQL" style="width: 128px; height: auto; border-radius: 8px;" />
+<img src="images/skills/Statistics_icon.png" alt="Statistics" style="width: 128px; height: auto; border-radius: 8px;" />
+<img src="images/skills/Machine_learning_icon.png" alt="Machine Learning" style="width: 128px; height: auto; border-radius: 8px;" />
+<img src="images/skills/Deep_learning_icon.png" alt="Deep Learning" style="width: 128px; height: auto; border-radius: 8px;" />
+<img src="images/skills/Amazon_Web_Services_Logo.svg" alt="AWS" style="width: 128px; height: auto; border-radius: 8px;" />
+<img src="images/skills/Looker_Logo.svg" alt="Looker" style="width: 128px; height: auto; border-radius: 8px;" />
+
+</div>
+
+{{< /text-section >}}
+
 
 {{< education-list
     title="Education" >}}
@@ -52,14 +71,14 @@ draft = false
 >}}
 
 {{< client-and-work-section
-    title="A selection of my work" >}} 
+    title="Projects" >}} 
 
-{{< testimonial-section
-    title="What they say about me" >}}
+<!-- {{< testimonial-section
+    title="What they say about me" >}} -->
 
 {{< spacer size="large" >}}
 
-## Extra home content
+<!-- ## Extra home content
 
 Additional content added after the `section` blocks, in the `home.md` file. 
 
@@ -74,4 +93,5 @@ centered="true"
 
 You can also use the `text-section` shortcode to add centered texts
 
-{{< /text-section >}}
+{{< /text-section >}} -->
+
