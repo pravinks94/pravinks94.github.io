@@ -18,8 +18,6 @@ draft = false
     {{< link icon="linkedin" url="<https://www.linkedin.com/in/pravinks94/>" >}}
     {{< link icon="square-github" url="<https://github.com/pravinks94>" >}}
     {{< link icon="x-twitter" url="<https://twitter.com/pravin_0709>" >}}
-    {{< link icon="dagshub" url="<https://dagshub.com/pravin986>" >}}
-    {{< link icon="kaggle" url="<https://www.kaggle.com/pravinks94>" >}}
     {{< link icon="square-xing" url="<https://www.xing.com/profile/PravinKumar_Sakthivel/>" >}}
 
 {{< /platform-links >}}
@@ -30,26 +28,52 @@ draft = false
     title="About me"
     content="<p>I am an Electronics engineer by formal training which let me question my life choices with my passion in coding,learning new tools, programming languages and to create projects to <strike>showoff</strike> showcase my skills</p><p>I am a deliberate jack of all trades, master of none. My profile is a hybrid of technical and managerial experience, but always related to technological projects. I bring business and product vision to tech teams, partly thanks to having started an developed a company.I am a fast learner, curious to see how technology can improve the users experience in multiple areas. I have a strong motivation and sense of responsibility with myself, my team and clients (or peers), and people like my positive and easy going, can-do attitude and my sense of humor.</p><p>On the technical side, I’m a specialized generalist, always working between different areas and aiming to develop a holistic vision on what is involved into creating a successful tech products,dashboards and web development, ,... This has involved a variety of languages and frameworks in the web-side and datascience side.</p>"
 
-    button_icon="linkedin"
-    button_text="About Me"
-    button_url="https://www.linkedin.com/in/pravinks94/"
     imgSrc="/images/about/IMG_0713.jpg"
-    imgScale="0.5"
+    imgScale="0.6"
  >}}
+
+ 
 {{< text-section
+id="skills"
 title="Skills"
 centered="false"
 >}}
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px; align-items: center; justify-items: center;">
 
-<img src="images/skills/Python-logo-notext.svg" alt="Python" style="width: 128px; height: auto; border-radius: 8px;" />
-<img src="images/skills/sql.png" alt="SQL" style="width: 128px; height: auto; border-radius: 8px;" />
-<img src="images/skills/Statistics_icon.png" alt="Statistics" style="width: 128px; height: auto; border-radius: 8px;" />
-<img src="images/skills/Machine_learning_icon.png" alt="Machine Learning" style="width: 128px; height: auto; border-radius: 8px;" />
-<img src="images/skills/Deep_learning_icon.png" alt="Deep Learning" style="width: 128px; height: auto; border-radius: 8px;" />
-<img src="images/skills/Amazon_Web_Services_Logo.svg" alt="AWS" style="width: 128px; height: auto; border-radius: 8px;" />
-<img src="images/skills/Looker_Logo.svg" alt="Looker" style="width: 128px; height: auto; border-radius: 8px;" />
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Python" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/Python.png" alt="Python" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="SQL" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/sql.png" alt="SQL" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Statistics" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/statistics.jpeg" alt="Statistics" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Machine Learning" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/ml.jpeg" alt="Machine Learning" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Deep Learning" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/dl.jpeg" alt="Deep Learning" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="AWS" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/aws.png" alt="AWS" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Looker" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/Looker.png" alt="Looker" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Reinforcement Learning" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/rl.jpeg" alt="Reinforcement Learning" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Streamlit" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/streamlit.png" alt="Streamlit" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Mode" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/mode.webp" alt="Mode" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
+<div style="margin:8px; display: flex; align-items: center; justify-content: center; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; transition: transform 0.3s, box-shadow 0.3s;" title="Tableau" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
+    <img src="/img/skills/tableau.png" alt="Tableau" style="width: 150px; height: 100px; border-radius: 8px; object-fit: contain; padding: 8px;"/>
+</div>
 
 </div>
 
@@ -67,16 +91,35 @@ centered="false"
     button1_text="See In LinkedIn"
     button1_icon="linkedin"
     button2_text="Download Resume"
-    button2_url="/experience"
+    button2_url="pravinkumar.pdf"
 >}}
 
 {{< client-and-work-section
     title="Projects" >}} 
 
+{{< text-section
+id="contact"
+title="Reach Out"
+centered="false"
+>}}
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 16px;">
+
+<a href="mailto:pravinks94@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: black; color: white; text-decoration: none; border-radius: 5px;">
+    <span style="color: white; margin-right: 8px;">✉️</span>Email Me
+</a>
+
+<p style="font-size: 16px; color: #333; text-align: right; margin: 0;">📍 Chennai, India</p>
+
+</div>
+
+{{< /text-section >}}
+
+
 <!-- {{< testimonial-section
     title="What they say about me" >}} -->
 
-{{< spacer size="large" >}}
+<!-- {{< spacer size="large" >}} -->
 
 <!-- ## Extra home content
 
